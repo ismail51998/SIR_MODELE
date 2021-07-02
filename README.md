@@ -1,5 +1,5 @@
 # SIR_MODELE
-We wish to apply some numerical methods seen in progress to simulate the spread over time of an epidemic (the coronavirus for example) within a given population. We use the model, called SIR, which assumes that the population is divided into 3 compartments :
+We wish to apply some numerical methods to simulate the spread over time of an epidemic (the coronavirus for example) within a given population. We use the model, called SIR, which assumes that the population is divided into 3 compartments :
 —S: individuals Healthy or Likely to be infected. 
 — I: those who are Infected. 
 — R: those who have recovered
